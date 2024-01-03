@@ -7,6 +7,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.client.RestTemplate;
 
 public class RestConsumer {
+	
 	public static void getDoctorsAsJson() {
         RestTemplate restTemplate = new RestTemplate();
 
