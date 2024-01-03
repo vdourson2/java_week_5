@@ -8,6 +8,8 @@ public class ClientApplicationApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ClientApplicationApiApplication.class, args);
+		RestConsumer.getDoctorsAsJson();
+		RestConsumer.createDoctor();
+		RestConsumer.getDoctorsAsJson();
 	}
-
 }

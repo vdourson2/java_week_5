@@ -1,0 +1,5 @@
+package vd.vdourson.week5.clientApplicationApi;
+
+public class Doctor {
+
+}

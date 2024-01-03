@@ -10,3 +10,83 @@
 2024-01-03 10:56:04,557 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
 2024-01-03 10:56:04,583 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
 2024-01-03 10:56:04,590 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 11:37:19,168 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 11:37:19,177 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 11:37:19,182 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 11:39:01,203 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 11:39:01,213 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 11:39:01,218 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 11:42:38,784 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 11:42:38,826 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 11:42:38,833 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 11:44:04,993 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.15; built: 2023-04-11T17:25:14.480Z; git: 68017dbd00236bb7e187330d7585a059610f661d; jvm 21.0.1+12-Ubuntu-222.04
+2024-01-03 11:44:05,035 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2024-01-03 11:44:05,072 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@76e48a42{/help,null,AVAILABLE}
+2024-01-03 11:44:05,088 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@607b02fa{HTTP/1.1, (http/1.1)}{127.0.0.1:37141}
+2024-01-03 11:44:05,094 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@5ed363ea{STARTING}[10.0.15,sto=0] @3276631ms
+2024-01-03 11:44:43,081 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 11:44:43,090 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 11:44:43,095 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 11:45:41,863 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 11:45:41,874 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 11:45:41,878 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 11:45:51,696 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 11:45:51,706 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 11:45:51,711 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 12:22:03,024 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 12:22:03,033 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 12:22:03,038 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 12:22:06,510 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 12:22:06,519 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 12:22:06,524 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 12:22:41,000 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 12:22:41,009 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 12:22:41,015 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 13:19:17,385 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-03 13:19:23,647 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 13:19:23,690 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 13:19:23,702 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 13:39:31,571 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 13:39:31,585 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 13:39:31,591 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 13:43:30,904 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 13:43:30,911 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 13:43:30,915 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 13:43:32,178 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 13:43:32,184 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 13:43:32,187 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 13:43:33,813 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 13:43:33,820 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 13:43:33,826 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 13:44:22,992 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 13:44:22,999 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 13:44:23,002 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 14:02:05,455 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.15; built: 2023-04-11T17:25:14.480Z; git: 68017dbd00236bb7e187330d7585a059610f661d; jvm 21.0.1+12-Ubuntu-222.04
+2024-01-03 14:02:05,507 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2024-01-03 14:02:05,552 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4207a256{/help,null,AVAILABLE}
+2024-01-03 14:02:05,566 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3122a61c{HTTP/1.1, (http/1.1)}{127.0.0.1:40269}
+2024-01-03 14:02:05,586 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@1fea64f2{STARTING}[10.0.15,sto=0] @2267072ms
+2024-01-03 14:09:51,687 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 14:09:51,695 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 14:09:51,700 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 14:22:04,205 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 14:22:04,214 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 14:22:04,220 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 14:22:06,612 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 14:22:06,622 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 14:22:06,627 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 14:22:18,897 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 14:22:18,905 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 14:22:18,908 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 14:22:40,916 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 14:22:40,924 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 14:22:40,929 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 14:25:09,244 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 14:25:09,253 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 14:25:09,259 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 14:25:11,018 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 14:25:11,026 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 14:25:11,032 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources
+2024-01-03 14:26:27,842 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-03 14:26:27,851 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-03 14:26:27,855 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/maison/eclipse-workspace/java_week_5/clientApplicationApi/src/test/resources

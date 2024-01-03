@@ -1,0 +1,31 @@
+package vd.vdourson.week5.clientApplicationApi;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.client.RestTemplate;
+
+@SpringBootApplication
+public class ClientApplicationApiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ClientApplicationApiApplication.class, args);
+		getProductAsJson();
+	}
+	
+	public static void getProductAsJson() {
+        RestTemplate restTemplate = new RestTemplate();
+
+        String resourceUrl
+          = "http://localhost:8080/api/doctors";
+
+        // Fetch JSON response as String wrapped in ResponseEntity
+        ResponseEntity<String> response
+          = restTemplate.getForEntity(resourceUrl, String.class);
+        
+        String productsJson = response.getBody();
+        
+        System.out.println(productsJson);
+    }
+
+}
