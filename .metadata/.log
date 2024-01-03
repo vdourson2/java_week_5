@@ -78,3 +78,6 @@ Binding(CTRL+SHIFT+T,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-01-03 15:20:35.421
+!MESSAGE Failed to find a compatible VM for environment id 'JavaSE-20', falling back to workspace default
