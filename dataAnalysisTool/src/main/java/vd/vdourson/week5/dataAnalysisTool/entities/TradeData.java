@@ -99,6 +99,7 @@ public class TradeData {
 	public String toString() {
 		return this.direction + " " + 
 				this.date + " " + 
+				this.country + " " +
 				this.commodity + " " + 
 				this.transport_mode + " "  + 
 				this.measure + " " + 

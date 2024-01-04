@@ -12,8 +12,8 @@ public class DataAnalysisToolApplication {
 
 	public static void main(String[] args) {
 		ApplicationContext context = SpringApplication.run(DataAnalysisToolApplication.class, args);
-		TradeDataRepository testRepo = context.getBean(TradeDataRepository.class);
-		System.out.println(testRepo.getAllData());
+//		TradeDataRepository testRepo = context.getBean(TradeDataRepository.class);
+//		System.out.println(testRepo.getAllData());
 	}
 
 }
