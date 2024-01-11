@@ -4,11 +4,13 @@ import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
 
+@Component
 public class RestConsumer {
 	
-	public static void getDoctorsAsJson() {
+	public void getDoctorsAsJson() {
         RestTemplate restTemplate = new RestTemplate();
 
         String resourceUrl
@@ -23,7 +25,7 @@ public class RestConsumer {
         System.out.println(productsJson);
     }
 	
-	public static void createDoctor() {
+	public void createDoctor() {
         RestTemplate restTemplate = new RestTemplate();
 
         String resourceUrl

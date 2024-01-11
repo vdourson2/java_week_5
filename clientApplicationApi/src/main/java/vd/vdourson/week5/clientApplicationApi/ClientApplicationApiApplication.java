@@ -1,15 +1,26 @@
 package vd.vdourson.week5.clientApplicationApi;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ClientApplicationApiApplication {
+public class ClientApplicationApiApplication implements CommandLineRunner{
+	
+	@Autowired
+	private RestConsumer restConsumer;
 
 	public static void main(String[] args) {
 		SpringApplication.run(ClientApplicationApiApplication.class, args);
-		RestConsumer.getDoctorsAsJson();
-		RestConsumer.createDoctor();
-		RestConsumer.getDoctorsAsJson();
 	}
+
+	@Override
+	public void run(String... args) throws Exception {
+		restConsumer.getDoctorsAsJson();
+		restConsumer.createDoctor();
+		restConsumer.getDoctorsAsJson();
+	}
+	
+	
 }
